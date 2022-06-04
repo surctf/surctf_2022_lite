@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>AIRDROP</title>
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+
+</head>
+<body>
+
+<div class="container">
+	<p> Ты сможешь забрать эту НФТи 01.05.2022 ровно в 23:23:23</p>
+	{% if ERROR %}
+		{% autoescape false %}
+    		<p style="color: red"> {{ ERROR }} </p>
+		{% endautoescape %}
+	{% endif %}
+
+	<img src="static/mystery.jpg" />
+	<form id="timeForm" action="/get_my_expensive_nft" method="POST">
+  	<input id="timeField" name="time" type="hidden" /> 
+  	<input type="submit" value="Забрать мою дорогую нфти" /> 
+	</form>
+</div>
+
+<script>
+  const form = document.getElementById("timeForm");
+
+  form.addEventListener( "submit", function ( event ) {
+    var txt = document.getElementById('timeField');
+    txt.value = Date.now();
+  });
+</script>
+</body>
+</html>
