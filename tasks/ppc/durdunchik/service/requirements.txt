@@ -1,0 +1,5 @@
+numpy==1.21.4
+pwn==1.0
+pwntools==4.7.0
+pyzbar==0.1.9
+qrcode==7.3.1
