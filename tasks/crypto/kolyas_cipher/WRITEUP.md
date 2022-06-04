@@ -1,0 +1,1 @@
+`Флаг: surctf_anuhennoooo_wow_wow`

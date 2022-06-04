@@ -1,0 +1,1 @@
+`Флаг: surctf_durdunch1k_ph1losophy_1s_ab0ut_you_not_h1m`

@@ -1,0 +1,1 @@
+`Флаг: surctf_i_am_live_in_russia_the_former_sovet_union`

@@ -1,0 +1,1 @@
+`Флаг: surctf_kirills_idea_for_game_truly_amazing`

@@ -1,0 +1,1 @@
+`Флаг: surctf_for_c0$m0$_friends_and_me`

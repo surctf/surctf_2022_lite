@@ -1,0 +1,1 @@
+`Флаг: surctf!super!m3ga!ultra!epic!xor`

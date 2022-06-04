@@ -1,0 +1,1 @@
+`Флаг: surctf_da_bomb_is_d3fus3d_and_no0n3_c4nt_st0p_m3`

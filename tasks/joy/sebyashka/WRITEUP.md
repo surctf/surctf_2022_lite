@@ -1,0 +1,1 @@
+`Флаг: surctf_s3byashka_gilfoyle`

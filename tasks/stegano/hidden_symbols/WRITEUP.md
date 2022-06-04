@@ -1,0 +1,1 @@
+`Флаг: surctf_no_pixel_and_blur`

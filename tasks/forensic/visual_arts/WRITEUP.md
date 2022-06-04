@@ -1,0 +1,1 @@
+`Флаг: surctf_haha_hidden_left_and_right`

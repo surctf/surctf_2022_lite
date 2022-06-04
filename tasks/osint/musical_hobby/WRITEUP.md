@@ -1,0 +1,1 @@
+`Флаг: surctf_visit_today_kosmoport_17_concert`

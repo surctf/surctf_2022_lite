@@ -1,0 +1,1 @@
+`Флаг: surctf_st3pn_n0t_pyram1d`

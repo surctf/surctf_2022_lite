@@ -1,0 +1,1 @@
+`Флаг: surctf_thx_fland3rs_4_ez_task`

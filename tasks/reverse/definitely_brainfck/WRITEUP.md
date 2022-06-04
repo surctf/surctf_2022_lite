@@ -1,0 +1,1 @@
+`Флаг: surctf_undefined_or_not`

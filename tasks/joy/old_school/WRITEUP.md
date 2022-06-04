@@ -1,0 +1,1 @@
+`Флаг: surctf_schooly_svelo`

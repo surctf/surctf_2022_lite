@@ -1,0 +1,1 @@
+`Флаг: surctf_jap_puzzle_crosss_vvord`
