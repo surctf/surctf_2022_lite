@@ -24,7 +24,7 @@
 [flanders_1](tasks/osint/flanders_1/) (recon 150)  
 [flanders_2](tasks/osint/flanders_2/) (recon 200)  
 [musical_hobby](tasks/osint/musical_hobby/) (recon 200)  
--[my_history](tasks/osint/my_history/) (recon 50)  
+[my_history](tasks/osint/my_history/) (recon 50)  
 
 ### `#ppc`
 [durdunchik](tasks/ppc/durdunchik/) (ppc 300)  
