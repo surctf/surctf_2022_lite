@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <h1>Попытка №{{ user.try_count }}</h1>
+    <h2>Бомба №{{ user.progress + 1 }}</h2>
+    {% if task_solved %}
+    <h3>surctf_da_bomb_is_d3fus3d_and_no0n3_c4nt_st0p_m3</h3>
+    {% else %}
+    {% if is_defused is none or is_defused %}
+    <h2>{{serial}}</h2>
+    <form action="" method="post">
+    {% for wire in wires %}
+        <input style="background: {{wire}}" value="{{loop.index-1}}" type="submit" name="wire">{{wire.upper()}}</input>
+    {% endfor %}
+    </form>
+    {% else %}
+    <h1 style="color: red">Ой, похоже бомба взорвалась, хотите попробовать ещё раз?</h1>
+    <button type="submit" onclick="location.href='/'">ДА</button>
+    {% endif %}
+    {% endif %}
+</body>
+</html>
